@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#1a1a1a</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#2688eb</color>
+    <color name="red">#ff3044</color>
+    <color name="darkGrey">#949494</color>
+    <color name="lightGrey">#efefef</color>
+    <color name="textColor">@color/darkGrey</color>
+    <color name="highlightTextColor">@color/black</color>
+    <color name="cardBackgroundColor">@color/white</color>
+    <color name="mainColor">@color/blue</color>
+    <color name="accentColor">@color/red</color>
+    <color name="backgroundColor">@color/lightGrey</color>
+</resources>

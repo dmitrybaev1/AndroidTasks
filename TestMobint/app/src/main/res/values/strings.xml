@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestMobint</string>
+    <string name="card_control">Управление картами</string>
+    <string name="cards">Карты</string>
+    <string name="cashback">Кешбэк</string>
+    <string name="level">Уровень</string>
+    <string name="details">Подробнее</string>
+    <string name="card_loading">Подгрузка компаний</string>
+    <string name="ok">Ок</string>
+    <string name="error">Ошибка</string>
+    <string name="attention">Внимание</string>
+</resources>
